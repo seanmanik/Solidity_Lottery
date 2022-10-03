@@ -1,0 +1,11 @@
+{
+  "guiSettings" : {
+    "windowWidth" : 748.0,
+    "windowHeight" : 760.0,
+    "windowCoordinates" : {
+      "x" : -993,
+      "y" : 122
+    }
+  },
+  "addressBookFilePath" : "data\\addressbook.json"
+}
